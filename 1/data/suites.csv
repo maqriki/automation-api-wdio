@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 30 02:20:46 GMT 2023","Sat Sep 30 02:20:46 GMT 2023","337","","API Test Add Pet","","","","should get correct response",""
+"passed","Sat Sep 30 02:20:48 GMT 2023","Sat Sep 30 02:20:49 GMT 2023","239","","API Test Find Pet by Status","","","","should get correct response find pet",""
+"passed","Sat Sep 30 02:20:52 GMT 2023","Sat Sep 30 02:20:52 GMT 2023","519","","API Test Update Pet","","","","should get correct response update pet",""
+"passed","Sat Sep 30 02:20:46 GMT 2023","Sat Sep 30 02:20:47 GMT 2023","194","","API Test Add Pet","","","","should get incorrect response",""
